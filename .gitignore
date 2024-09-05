@@ -1,3 +1,9 @@
+# Dataset related files
+*.csv
+
+# Dataset related folders
+__MACOSX/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
