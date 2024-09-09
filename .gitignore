@@ -1,5 +1,6 @@
 # Dataset related files
 *.csv
+*.zip
 
 # Dataset related folders
 __MACOSX/
